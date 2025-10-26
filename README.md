@@ -72,7 +72,7 @@ O Rei Leão;10.0;true
 ## 📚 Referência e Aprendizado
 
 - Este projeto foi inspirado em conteúdos educacionais, como os vídeos do prof. Lucas Fraga, que explicam de forma clara o uso de arquivos CSV em Java.
-- LINK: https://www.youtube.com/watch?v=OClKwp-NgVE
+- LINK: https://www.youtube.com/watch?v=cHFQCT7_1VM
 
 
 # 👨‍💻 Autor
